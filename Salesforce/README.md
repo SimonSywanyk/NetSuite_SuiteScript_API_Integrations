@@ -1,6 +1,4 @@
-# NetSuite_SuiteScript_API_Integrations
-
-Building a small collection of files which demonstrate using SuiteScript within NetSuite to interact with exernal software-as-a-service systems.
+# NetSuite Salesforce Intergration
 
 # Summary Description of Files
 
