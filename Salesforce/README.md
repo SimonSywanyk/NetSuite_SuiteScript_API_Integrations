@@ -1,6 +1,6 @@
 # NetSuite Salesforce Intergration
 
-# Summary Description of Files
+# Summary
 
   These three SuiteScripts work together to integrate NetSuite and Salesforce, syncing invoice and payment data from NetSuite to the corresponding Sales Order records in Salesforce. When a user creates or modifies an invoice related to a Sales Order or applies a payment to such an invoice in NetSuite, the scripts trigger a data transfer to update the relevant Sales Order in Salesforce.
 
